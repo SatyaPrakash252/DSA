@@ -1,95 +1,131 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9ff&height=200&section=header&text=DSA%20Grind&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Structures%20%26%20Algorithms%20%7C%20LeetCode%20Journey&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f2027,50:2c5364,100:00c9ff&amp;height=200&amp;section=header&amp;text=Code.%20Crack.%20Conquer.&amp;fontSize=52&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=A%20Living%20Log%20of%20My%20DSA%20and%20Problem-Solving%20Journey&amp;descAlignY=55&amp;descSize=18" width="100%"/>
 
 <a href="https://github.com/SatyaPrakash252">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=Consistency+%3E+Motivation;Solving+one+problem+a+day...;Synced+automatically+via+LeetSync+%E2%9A%A1;Product-based+company+prep+in+progress..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;size=22&amp;pause=1000&amp;color=00C9FF&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=One+problem+a+day+keeps+the+rejection+away;Optimizing+for+O(offers)+not+just+O(n);Currently+prepping+for+Product-Based+Companies;Debug.+Learn.+Repeat.+%F0%9F%94%81" alt="Typing SVG" />
 </a>
+
+<br/><br/>
+
+![Language](https://img.shields.io/github/languages/top/SatyaPrakash252/DSA?style=for-the-badge&color=00C9FF&labelColor=0f2027)
+![Repo Size](https://img.shields.io/github/repo-size/SatyaPrakash252/DSA?style=for-the-badge&color=2c5364&labelColor=0f2027)
+![Last Commit](https://img.shields.io/github/last-commit/SatyaPrakash252/DSA?style=for-the-badge&color=0f2027&labelColor=2c5364)
+![Status](https://img.shields.io/badge/Status-Actively%20Grinding-brightgreen?style=for-the-badge&labelColor=0f2027)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-2-success?style=for-the-badge&labelColor=0f2027)
+
+</div>
 
 <br/>
 
-![Language](https://img.shields.io/github/languages/top/SatyaPrakash252/DSA?style=for-the-badge&color=00C9FF)
-![Repo Size](https://img.shields.io/github/repo-size/SatyaPrakash252/DSA?style=for-the-badge&color=2c5364)
-![Last Commit](https://img.shields.io/github/last-commit/SatyaPrakash252/DSA?style=for-the-badge&color=0f2027)
-![LeetSync](https://img.shields.io/badge/Synced%20with-LeetSync-orange?style=for-the-badge&logo=leetcode)
+## 📌 About
 
-</div>
+This repo is my running log of **Data Structures & Algorithms** practice — every solved problem is pushed here with the actual solution code, so it's a live, unfiltered record of progress rather than a curated highlight reel.
 
----
+Built as part of a bigger placement-prep push toward **product-based companies**, running alongside structured revision sheets, mock interviews, and system design practice.
 
-## About this Repo
+<br/>
 
-This repository is my running log of **Data Structures & Algorithms** practice — every solved problem gets pushed here automatically via **[LeetSync](https://github.com/apps/leetsync)**, complete with runtime, memory stats, and beat-percentage, so this is a live, honest record of my DSA journey rather than a cleaned-up highlight reel.
-
-Part of a broader placement-prep effort targeting **product-based companies**, alongside a structured 20-day DSA mastery sheet, mock interviews, and system design practice.
-
----
-
-## How it Works
+## 🧠 Topics Covered
 
 <div align="center">
 
-```mermaid
-graph LR
-    A[Solve on LeetCode] --> B[LeetSync Extension]
-    B --> C[Auto-commit to GitHub]
-    C --> D[Organized by Problem Folder]
-    D --> E[README + Stats Auto-updated]
-
-    style A fill:#0f2027,stroke:#00C9FF,color:#fff
-    style B fill:#203a43,stroke:#00C9FF,color:#fff
-    style C fill:#2c5364,stroke:#00C9FF,color:#fff
-    style D fill:#203a43,stroke:#00C9FF,color:#fff
-    style E fill:#0f2027,stroke:#00C9FF,color:#fff
-```
-
-</div>
-
-Each solved problem lands in its own folder — named `<number>-<problem-slug>` — with the solution code and the runtime/memory benchmark from LeetCode's judge, so progress is trackable commit by commit.
-
----
-
-## Progress Snapshot
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=SatyaPrakash252&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SatyaPrakash252&theme=tokyonight&hide_border=true" height="165"/>
+![Arrays](https://img.shields.io/badge/Arrays-0f2027?style=for-the-badge)
+![Strings](https://img.shields.io/badge/Strings-203a43?style=for-the-badge)
+![Two%20Pointers](https://img.shields.io/badge/Two%20Pointers-2c5364?style=for-the-badge)
+![Sliding%20Window](https://img.shields.io/badge/Sliding%20Window-0f2027?style=for-the-badge)
+![Hashing](https://img.shields.io/badge/Hashing-203a43?style=for-the-badge)
+![Sorting](https://img.shields.io/badge/Sorting-2c5364?style=for-the-badge)
+![Recursion](https://img.shields.io/badge/Recursion-0f2027?style=for-the-badge)
+![Trees](https://img.shields.io/badge/Trees-203a43?style=for-the-badge)
+![Graphs](https://img.shields.io/badge/Graphs-2c5364?style=for-the-badge)
+![DP](https://img.shields.io/badge/Dynamic%20Programming-0f2027?style=for-the-badge)
+![Greedy](https://img.shields.io/badge/Greedy-203a43?style=for-the-badge)
+![Backtracking](https://img.shields.io/badge/Backtracking-2c5364?style=for-the-badge)
 
 </div>
 
+<br/>
+
+## 📊 Progress Snapshot
+
 <div align="center">
 
-| Metric | Status |
+<img src="https://github-readme-stats.vercel.app/api?username=SatyaPrakash252&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true&amp;cache_seconds=86400" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SatyaPrakash252&amp;theme=tokyonight&amp;hide_border=true" height="165"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SatyaPrakash252&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true" width="95%"/>
+
+</div>
+
+<br/>
+
+## 🎯 Current Focus
+
+<div align="center">
+
+| 🚀 Goal | 📅 Target |
 |:--|:--:|
-| 🧩 Problems Solved | *Growing daily* |
-| ⚡ Auto-sync | LeetSync (real-time) |
-| 🎯 Focus Areas | Arrays, Two Pointers, Sliding Window, Sorting, Strings |
-| 🏢 Prep Target | Product-based companies |
+| Consistent daily solving | Ongoing |
+| Master core patterns (Two Pointers, Sliding Window, DP) | In Progress |
+| Product-based company interview readiness | Active Prep |
+| Mock interviews + system design basics | Upcoming |
 
 </div>
 
----
+<br/>
 
-## Repo Structure
-
-```
-DSA/
-├── 11-container-with-most-water/
-│   └── solution.* 
-├── 26-remove-duplicates-from-sorted-array/
-│   └── solution.*
-└── README.md
-```
-
-Every folder = one solved LeetCode problem, numbered by its LeetCode problem ID.
-
----
+## 💬 Dev Quote of the Moment
 
 <div align="center">
 
-### ⭐ If you're on a similar grind, star this repo and let's keep each other accountable.
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c9ff,50:2c5364,100:0f2027&height=100&section=footer" width="100%"/>
+</div>
+
+<br/>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+
+</div>
+
+<br/>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=SatyaPrakash252&amp;theme=onedark&amp;no-frame=true&amp;row=1&amp;column=6&amp;margin-w=10&amp;margin-h=10" width="95%"/>
+
+</div>
+
+<br/>
+
+## 🤝 Connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SatyaPrakash252)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](#)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### ⭐ If you're on the same grind, star this repo — let's keep each other accountable.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:00c9ff,50:2c5364,100:0f2027&amp;height=100&amp;section=footer" width="100%"/>
 
 </div>
