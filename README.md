@@ -51,7 +51,6 @@ Built as part of a bigger placement-prep push toward **product-based companies**
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SatyaPrakash252&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true&amp;cache_seconds=86400" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SatyaPrakash252&amp;theme=tokyonight&amp;hide_border=true" height="165"/>
 
 <br/>
@@ -100,23 +99,14 @@ Built as part of a bigger placement-prep push toward **product-based companies**
 
 <br/>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=SatyaPrakash252&amp;theme=onedark&amp;no-frame=true&amp;row=1&amp;column=6&amp;margin-w=10&amp;margin-h=10" width="95%"/>
-
-</div>
-
-<br/>
 
 ## 🤝 Connect
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SatyaPrakash252)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satyaprakash-rout-923393289/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/SatyaPrakash_08/)
 
 </div>
 
